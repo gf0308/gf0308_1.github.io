@@ -29,7 +29,7 @@ title:  "웹 개발 발전의 역사"
 
 책에서 한번쯤은 본 애니악 같은 거대한 컴퓨터 느낌의 본체에 여러 터미널을 물려놓고 이용한 것이다.
 
-![Untitled.png](/assets/images/posts/2022-09-06/Untitled.png) 
+![Untitled_0.png](/assets/images/posts/2022-09-06/Untitled_0.png) 
 
  
 
@@ -37,7 +37,7 @@ title:  "웹 개발 발전의 역사"
 메인프레임은 거대 본체 컴퓨터 한 대에 여러 터미널들을 물려서 사용한 것으로 아래와 같은 구조다.
 
 ![Untitled 1.png](/assets/images/posts/2022-09-06/Untitled 1.png) 
-![Untitled_1.png](/assets/images/posts/2022-09-06/Untitled_1.png) 
+
 
 
 ### 특징
@@ -75,7 +75,7 @@ title:  "웹 개발 발전의 역사"
 
 **서버 쪽**은 **데이터 처리를 위해** (크고 무거운) 메인 프레임 대신 (크기가 작아도 비슷한 사양을 자랑하는) **워크스테이션 급 소형 서버**가 담당하게 되어갔다.
 
-![Untitled 2.png](/assets/images/posts/2022-09-06/Untitled 2.png) 
+![Untitled_2.png](/assets/images/posts/2022-09-06/Untitled_2.png) 
 
 
 — 서버(서버 컴퓨터)에는 DBMS 같은 소프트웨어가 설치되고, 데이터 처리 로직을 수행
@@ -124,7 +124,7 @@ title:  "웹 개발 발전의 역사"
 
 → **애플리케이션 서버** 의 도입
 
-![Untitled 3.png](/assets/images/posts/2022-09-06/Untitled 3.png) 
+![Untitled_3.png](/assets/images/posts/2022-09-06/Untitled_3.png) 
 
 웹의 시대에 이르러 갖춰지게 된 현재의 정보시스템 구조
 
@@ -145,7 +145,7 @@ title:  "웹 개발 발전의 역사"
         
          → PC가 처리하던 비즈니스 로직을 **이를 전용으로 처리하는 서버**를 두어 처리하게 함.
         
-![Untitled 3.png](/assets/images/posts/2022-09-06/Untitled 3.png) 
+![Untitled_3.png](/assets/images/posts/2022-09-06/Untitled_3.png) 
         
         - 메인 프레임 시대 때와의 차이점은 단 1대의 서버에서 모든 것(비즈니스 로직 + 데이터 처리)을 처리하지 않고 여러 대의 소형 서버로 그 역할을 분산함
             
