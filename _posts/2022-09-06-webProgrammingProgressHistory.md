@@ -38,6 +38,7 @@ title:  "웹 개발 발전의 역사"
 
 ![Untitled 1.png](/assets/images/posts/2022-09-06/Untitled 1.png) 
 
+
 ### 특징
 
 - 터미널은 사용자의 입력을 받아 전달하고 출력내용을 받아 그대로 뿌려줄 뿐 그 외의 직접적인 처리기능은 없음
