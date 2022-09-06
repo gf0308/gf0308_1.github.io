@@ -25,7 +25,6 @@
 책에서 한번쯤은 본 애니악 같은 거대한 컴퓨터 느낌의 본체에 여러 터미널을 물려놓고 이용한 것이다.
 
 ![Untitled.png](/assets/images/posts/2022-09-06/Untitled.png) 
-위와 같은 느낌의 거대한 컴퓨터에 여러 터미널을 연결해놓고 동시에 사용할 수 있었던게 메인프레임 시스템]
 
 출처: [https://fallout.fandom.com/wiki/RobCo_Production_Mainframe](https://fallout.fandom.com/wiki/RobCo_Production_Mainframe) / 위와 같은 느낌의 거대한 컴퓨터에 여러 터미널을 연결해놓고 동시에 사용할 수 있었던게 메인프레임 시스템
 
