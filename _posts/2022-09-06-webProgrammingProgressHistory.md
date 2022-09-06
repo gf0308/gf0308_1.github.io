@@ -29,9 +29,7 @@
 
 ![Untitled_0.png](/assets/images/posts/2022-09-06/Untitled_0.png) 
 
- 
-
-
+<br><br><br><br><br><br><br>
 메인프레임은 거대 본체 컴퓨터 한 대에 여러 터미널들을 물려서 사용한 것으로 아래와 같은 구조다.
 
 ![Untitled_1.png](/assets/images/posts/2022-09-06/Untitled_1.png) 
