@@ -30,9 +30,8 @@ title:  "웹 개발 발전의 역사"
 책에서 한번쯤은 본 애니악 같은 거대한 컴퓨터 느낌의 본체에 여러 터미널을 물려놓고 이용한 것이다.
 
 ![Untitled.png](/assets/images/posts/2022-09-06/Untitled.png) 
-(출처: https://fallout.fandom.com/wiki/RobCo_Production_Mainframe)
+
  
-위와 같은 느낌의 거대한 컴퓨터에 여러 터미널을 연결해놓고 동시에 사용할 수 있었던게 메인프레임 시스템
 
 
 메인프레임은 거대 본체 컴퓨터 한 대에 여러 터미널들을 물려서 사용한 것으로 아래와 같은 구조다.
