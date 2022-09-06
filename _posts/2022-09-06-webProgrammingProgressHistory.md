@@ -37,6 +37,7 @@ title:  "웹 개발 발전의 역사"
 메인프레임은 거대 본체 컴퓨터 한 대에 여러 터미널들을 물려서 사용한 것으로 아래와 같은 구조다.
 
 ![Untitled 1.png](/assets/images/posts/2022-09-06/Untitled 1.png) 
+![Untitled.png](/assets/images/posts/2022-09-06/Untitled.png) 
 
 
 ### 특징
